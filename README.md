@@ -2,7 +2,7 @@
 <h3 align="center">I am a Tech Wizard and Design Beast</h3>
 <h4 align="left">😄Professional UI/UX🖼️ designer ,right from creating🤩 wire-frames💀 to prototypes 🧔🏻‍♂and complete Web 💻and Mobile Application 📱mockups </h4>
 <h4 align="left">😎Frontend Developer with knowledge Web-Development 🥶and responsiveness. Mobile Development 🥵and integrations with BaaS🤯, Cross-platform development🤓👽</h4>
-<h4 align="left">A Backend Developer with knowledge of building APIs , developing and deployment. Database Architecture, Security </h4>
+<h4 align="left">💀Backend Developer with knowledge of building APIs🕸️, developing🕒  and deployment📦. Database Architecture🔗and Security🔒</h4>
 
 
 <h3 align="left">Have a Look at</h3>
