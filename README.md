@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radhaiya Kulkarni</h1>
 <h3 align="center">I am a Tech Wizard and Design Beast</h3>
-<h4 align="left">A professional UI/UX designer ,right from creating wire-frames to prototypes and complete Web and Mobile Application mockups. </h4>
+<h4 align="left">😄 professional UI/UX🖼️ designer ,right from creating🤩 wire-frames💀 to prototypes 🧔🏻‍♂and complete Web 💻and Mobile Application 📱mockups </h4>
 <h4 align="left">A Frontend Developer with knowledge Web-Devlopment, responsiveness. Mobile Development and integrations with BaaS, Cross platform development</h4>
 <h4 align="left">A Backend Developer with knowledge of building APIs , developing and deployment. Database Architecture, Security </h4>
 
