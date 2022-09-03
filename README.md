@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radhaiya Kulkarni</h1>
 <h3 align="center">I am a Tech Wizard and Design Beast</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhaiya&show_icons=true&locale=en" alt="radhaiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radhaiya&" alt="radhaiya" /></p>
+
+<h3 align="center">Checkout My Blogs</h3>
+
+![Radhaiya's blog](https://github-read-medium.vercel.app/latest?username=radhaiya-kulkarni&limit=6&theme=nord)
