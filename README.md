@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/radhaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="radhaiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/radhaiya-kulkarni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/radhaiya-kulkarni/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/radhaiya_kulkarni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radhaiya_kulkarni" height="30" width="40" /></a>
+<a href="https://www.instagram.com/radhaiya_kulkarni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/radhaiya_kulkarni/" height="30" width="40" /></a>
 <a href="https://www.behance.net/radhaiykulkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/radhaiykulkarn" height="30" width="40" /></a>
 <a href="https://medium.com/@radhaiya-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@radhaiya-kulkarni" height="30" width="40" /></a>
 </p>
